@@ -264,3 +264,34 @@ box-shadow: 0px 0px 52px -20px rgba(0,0,0,0.75);
 }
 
 /* aqui termina el footer */
+
+/* seccion de servicios */
+
+.contenedor-servicios {
+  margin-top: 95px;
+}
+
+.servicios-h1 {
+  text-align: center;
+}
+
+.contenedor-servicios h2 {
+  font-size: 20px;
+}
+
+.icono-servicios {
+  font-size: 50px;
+  color: #007bff;
+  margin: 16px 0;
+}
+
+.contenedor-servicios img {
+  
+    -webkit-box-shadow: 0px 0px 52px -20px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px 0px 52px -20px rgba(0,0,0,0.75);
+  box-shadow: 0px 0px 52px -20px rgba(0,0,0,0.75);
+  
+  
+}
+
+/* termina la seccion de servicios */
