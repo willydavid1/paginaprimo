@@ -276,7 +276,7 @@ box-shadow: 0px 0px 52px -20px rgba(0,0,0,0.75);
 }
 
 .contenedor-servicios h2 {
-  font-size: 20px;
+  font-size: 22px;
 }
 
 .icono-servicios {
@@ -312,3 +312,37 @@ box-shadow: 0px 0px 52px -20px rgba(0,0,0,0.75);
 }
 
 /* aqui termina la seccion de productos */
+
+.contenedor-quienes-somos {
+  margin-top: 95px;
+  position: relative;
+}
+
+.quienes-somos-h1 {
+  text-align: center;
+}
+
+/* sombra */
+.contenedor-quienes-somos img {
+  
+  -webkit-box-shadow: 0px 0px 52px -20px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 0px 52px -20px rgba(0,0,0,0.75);
+box-shadow: 0px 0px 52px -20px rgba(0,0,0,0.75);
+}
+
+.contenedor-productos strong {
+  color: #007bff;
+}
+
+
+@media (min-width: 1024px) {
+  .footer-quienes-somos {
+    position: absolute;
+    bottom: -50px;
+    width: 100%;
+  }
+}
+
+
+
+/* aqui termina la seccion de quienes somos */
