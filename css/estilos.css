@@ -291,7 +291,24 @@ box-shadow: 0px 0px 52px -20px rgba(0,0,0,0.75);
   -moz-box-shadow: 0px 0px 52px -20px rgba(0,0,0,0.75);
   box-shadow: 0px 0px 52px -20px rgba(0,0,0,0.75);
   
-  
+
 }
 
 /* termina la seccion de servicios */
+
+.contenedor-productos {
+  margin-top: 95px;
+}
+
+.contenedor-productos img {
+  
+  -webkit-box-shadow: 0px 0px 52px -20px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 0px 52px -20px rgba(0,0,0,0.75);
+box-shadow: 0px 0px 52px -20px rgba(0,0,0,0.75);
+}
+
+.contenedor-productos strong {
+  color: #007bff;
+}
+
+/* aqui termina la seccion de productos */
