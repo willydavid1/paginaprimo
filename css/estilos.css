@@ -322,9 +322,9 @@ box-shadow: 0px 0px 52px -20px rgba(0,0,0,0.75);
   text-align: center;
 }
 
-.parrafo-seccion-quienes-somos{
+/* .parrafo-seccion-quienes-somos{
   font-size: 18px;
-}
+} */
 
 /* sombra */
 .contenedor-quienes-somos img {
@@ -347,3 +347,17 @@ box-shadow: 0px 0px 52px -20px rgba(0,0,0,0.75);
 
 
 /* aqui termina la seccion de quienes somos */
+
+/* boton de whatsapp */
+
+.boton-whatsapp {
+  position: fixed;
+  bottom: 15px;
+  right: 25px;
+  z-index: 15;
+}
+
+.boton-whatsapp img {
+  height: 65px;
+  border-radius: 1em;
+}
