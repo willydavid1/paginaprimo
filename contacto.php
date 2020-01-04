@@ -19,7 +19,7 @@ if($_POST) {
     }
      
     
-    $recipient = "willydavidlozada@gmail.com";
+    $recipient = "samiquiles@hotmail.com";
     $email_title = "MENSAJE DE CONTACTO ENVIADO DESDE NUESTRO SITIO WEB(S.Q Servicios contables especializados S.A.S)";
     
      

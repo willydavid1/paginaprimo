@@ -322,6 +322,10 @@ box-shadow: 0px 0px 52px -20px rgba(0,0,0,0.75);
   text-align: center;
 }
 
+.parrafo-seccion-quienes-somos{
+  font-size: 18px;
+}
+
 /* sombra */
 .contenedor-quienes-somos img {
   
@@ -335,7 +339,7 @@ box-shadow: 0px 0px 52px -20px rgba(0,0,0,0.75);
 @media (min-width: 1024px) {
   .footer-quienes-somos {
     position: absolute;
-    bottom: -50px;
+    bottom: -250px;
     width: 100%;
   }
 }
